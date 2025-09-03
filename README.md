@@ -34,10 +34,10 @@ I'm a **Rust Systems Programming Expert** passionate about building **memory-saf
 
 Beyond coding, I create **comprehensive educational content** through:
 
-📚 **YouTube Channel**: Project-based learning from beginner to advanced Rust
-⚡ **Performance Guides**: Making Rust code blazingly fast with real benchmarks  
-🐛 **Debugging Sessions**: Real-world problem solving and error analysis
-🤝 **Open Source**: Collaborative projects engaging the developer community
+- 📚 **YouTube Channel**: Project-based learning from beginner to advanced Rust
+- ⚡ **Performance Guides**: Making Rust code blazingly fast with real benchmarks  
+- 🐛 **Debugging Sessions**: Real-world problem solving and error analysis
+- 🤝 **Open Source**: Collaborative projects engaging the developer community
 
 ## 🔥 **Featured Projects Portfolio**
 
