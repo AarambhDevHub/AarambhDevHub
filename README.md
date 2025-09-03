@@ -1,22 +1,148 @@
-# 💫 About Me:
-Welcome to the Aarambh Dev Hub GitHub profile! This is where we bring the exciting world of programming to life. On our YouTube channel, [Aarambh Dev Hub](https://www.youtube.com/@AarambhDevHub), we dive deep into Rust programming, web development with Next.js, and much more.<br><br>Explore our repositories to find code examples, project files, and resources related to our tutorials and challenges. Whether you're here to learn about backend development, multiplayer game design, or AI-powered projects, you'll find plenty of valuable content to help you along the way.<br><br>Feel free to contribute, provide feedback, or reach out with any questions or collaboration ideas. Let's build something amazing together!
+<div align="center">
 
+# 🚀 **Aarambh Dev Hub** - Rust Systems Programming Expert
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AarambhDevHub) 
+![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg?style=for-the-badge&logo=rust&labelColor=black)
+![Systems Programming](https://img.shields.io/badge/Systems-Programming-red.svg?style=for-the-badge&labelColor=black)
+![YouTube](https://img.shields.io/badge/YouTube-Aarambh%20Dev%20Hub-red?style=for-the-badge&logo=youtube)
+![Portfolio](https://img.shields.io/badge/Projects-10%2B-blue.svg?style=for-the-badge&labelColor=black)
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AarambhDevHub&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AarambhDevHub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AarambhDevHub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Building the future of systems programming with Rust** 🦀
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCm5U5uQiZA_mQY5wQ6WfUVA?style=social&logo=youtube&label=Aarambh%20Dev%20Hub)](https://youtube.com/@aarambhdevhub)
+[![GitHub followers](https://img.shields.io/github/followers/AarambhDevHub?style=social)](https://github.com/AarambhDevHub)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AarambhDevHub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aarambhdevhub) 
+## 💫 **About Me**
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Welcome to **Aarambh Dev Hub** – your gateway to mastering **high-performance systems programming** with Rust! 
+
+I'm a **Rust Systems Programming Expert** passionate about building **memory-safe**, **blazingly fast**, and **production-ready** applications. My expertise spans:
+
+🔥 **Core Specializations:**
+- **🦀 Rust Language**: Advanced patterns, async programming, zero-cost abstractions
+- **🗄️ Database Systems**: Redis-compatible stores, graph databases, SQL engines
+- **🌐 Distributed Systems**: Message queues, P2P networks, container orchestration  
+- **⚡ Web Frameworks**: High-performance backends, middleware, authentication
+- **🤖 Machine Learning**: Deep learning libraries, tensor operations, SIMD optimization
+- **🛠️ System Tools**: Compilers, interpreters, version control, container runtimes
+
+## 🎥 **Educational Content & Community**
+
+Beyond coding, I create **comprehensive educational content** through:
+
+📚 **YouTube Channel**: Project-based learning from beginner to advanced Rust
+⚡ **Performance Guides**: Making Rust code blazingly fast with real benchmarks  
+🐛 **Debugging Sessions**: Real-world problem solving and error analysis
+🤝 **Open Source**: Collaborative projects engaging the developer community
+
+## 🔥 **Featured Projects Portfolio**
+
+### **🚀 Production-Ready Systems**
+| Project | Description | Performance | Tech Stack |
+|---------|-------------|-------------|------------|
+| **[Mini Database](https://github.com/AarambhDevHub/rust-project-showcase)** | Graph database with SQL joins | 138K ops/sec | Graph DB, LRU Cache, TCP |
+| **[Ignitia Framework](https://github.com/AarambhDevHub/rust-project-showcase)** | Blazing fast web framework | Production-ready | Hyper, Tokio, Middleware |
+| **[Mini Kafka](https://github.com/AarambhDevHub/rust-project-showcase)** | Distributed message queue | 347ns latency | Pub/Sub, Persistence, TCP |
+| **[Mini Redis](https://github.com/AarambhDevHub/rust-project-showcase)** | In-memory key-value store | 50K ops/sec | RESP Protocol, CLI |
+
+### **🛠️ System Tools & Infrastructure**
+| Project | Description | Features |
+|---------|-------------|----------|
+| **[Mini Docker](https://github.com/AarambhDevHub/rust-project-showcase)** | Container runtime | Namespaces, cgroups, networking |
+| **[Mini Git](https://github.com/AarambhDevHub/rust-project-showcase)** | Version control system | SHA-1, branching, merging |
+| **[Mini P2P](https://github.com/AarambhDevHub/rust-project-showcase)** | File sharing network | UDP discovery, chunked transfer |
+| **[Mini Search Engine](https://github.com/AarambhDevHub/rust-project-showcase)** | Full-text search | Web crawling, TF-IDF, REST API |
+
+### **🤖 AI & Language Tools** 
+| Project | Description | Capabilities |
+|---------|-------------|--------------|
+| **[Mini TensorFlow](https://github.com/AarambhDevHub/rust-project-showcase)** | Deep learning library | SIMD, neural networks, autograd |
+| **[Toy Language](https://github.com/AarambhDevHub/rust-project-showcase)** | Programming language | Lexer, parser, AST, interpreter |
+
+**🎯 View Complete Portfolio**: [rust-project-showcase](https://github.com/AarambhDevHub/rust-project-showcase)
+
+## 💻 **Tech Stack**
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/sveltekit-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
+
+### **🎯 Core Expertise**
+- **Languages**: Rust (Expert), Python, Java, JavaScript, C++
+- **Frontend**: SvelteKit, Next.js, modern web frameworks
+- **Async**: Tokio, async/await, concurrent programming  
+- **Networking**: TCP/UDP, HTTP servers, P2P protocols
+- **Databases**: Embedded, distributed, graph databases
+- **Performance**: SIMD, zero-copy, memory optimization
+- **Systems**: Linux internals, containers, namespaces
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AarambhDevHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AarambhDevHub&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AarambhDevHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+## 🌟 **Highlights**
+
+- 🦀 **10+ Production-Ready Rust Projects** with comprehensive documentation
+- ⚡ **High-Performance Focus**: Sub-microsecond latencies, 100K+ ops/sec
+- 📚 **Educational Content Creator**: YouTube tutorials and community building  
+- 🔧 **Systems Programming Expert**: Databases, compilers, distributed systems
+- 🤝 **Open Source Contributor**: Building tools for the Rust community
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@aarambhdevhub)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AarambhDevHub)
+
+</div>
+
+**🤝 Open to:**
+- Rust development projects and consulting
+- Systems architecture and performance optimization  
+- Technical mentoring and code reviews
+- Open source collaborations and contributions
+
+## 💰 **Support My Work**
+
+If you find my projects and tutorials valuable, consider supporting:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aarambhdevhub)
+
+---
+
+<div align="center">
+
+**🦀 Building the future, one Rust project at a time 🦀**
+
+*"Where every line of code sparks new possibilities"*
+
+**© 2025 Aarambh Dev Hub - Systems Programming with ❤️**
+
+![Profile Views](https://komarev.com/ghpvc/?username=AarambhDevHub&color=brightgreen&style=flat-square)
+
+</div>
