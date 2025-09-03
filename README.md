@@ -18,26 +18,24 @@
 
 ## 💫 **About Me**
 
-Welcome to **Aarambh Dev Hub** – your gateway to mastering **high-performance systems programming** with Rust! 
+Hello! I'm **Darshan Vichhi**, the developer behind Aarambh Dev Hub. I specialize in **Rust systems programming** with a passion for building **high-performance**, memory-safe, and scalable software.
 
-I'm a **Rust Systems Programming Expert** passionate about building **memory-safe**, **blazingly fast**, and **production-ready** applications. My expertise spans:
+At Aarambh Dev Hub, I share my journey through comprehensive projects, tutorials, and open-source contributions focused on:
+- Systems programming in Rust
+- Distributed systems and networking
+- Databases, compilers, and container runtimes
+- Machine learning and web frameworks
 
-🔥 **Core Specializations:**
-- **🦀 Rust Language**: Advanced patterns, async programming, zero-cost abstractions
-- **🗄️ Database Systems**: Redis-compatible stores, graph databases, SQL engines
-- **🌐 Distributed Systems**: Message queues, P2P networks, container orchestration  
-- **⚡ Web Frameworks**: High-performance backends, middleware, authentication
-- **🤖 Machine Learning**: Deep learning libraries, tensor operations, SIMD optimization
-- **🛠️ System Tools**: Compilers, interpreters, version control, container runtimes
+Join me as I explore the fascinating world of systems programming and build the future with Rust.
 
 ## 🎥 **Educational Content & Community**
 
 Beyond coding, I create **comprehensive educational content** through:
 
-- 📚 **YouTube Channel**: Project-based learning from beginner to advanced Rust
-- ⚡ **Performance Guides**: Making Rust code blazingly fast with real benchmarks  
-- 🐛 **Debugging Sessions**: Real-world problem solving and error analysis
-- 🤝 **Open Source**: Collaborative projects engaging the developer community
+📚 **YouTube Channel**: Project-based learning from beginner to advanced Rust  
+⚡ **Performance Guides**: Making Rust code blazing fast with real benchmarks  
+🐛 **Debugging Sessions**: Real-world problem solving and error analysis  
+🤝 **Open Source**: Collaborative projects engaging the developer community
 
 ## 🔥 **Featured Projects Portfolio**
 
@@ -71,12 +69,12 @@ Beyond coding, I create **comprehensive educational content** through:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000.svg?style=for-the-badge&logo=tokio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/sveltekit-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
@@ -141,7 +139,7 @@ If you find my projects and tutorials valuable, consider supporting:
 
 *"Where every line of code sparks new possibilities"*
 
-**© 2025 Aarambh Dev Hub - Systems Programming with ❤️**
+**© 2025 Darshan Vichhi - Aarambh Dev Hub - Systems Programming with ❤️**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AarambhDevHub&color=brightgreen&style=flat-square)
 
