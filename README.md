@@ -43,9 +43,9 @@ Beyond coding, I create **comprehensive educational content** through:
 | Project | Description | Performance | Tech Stack |
 |---------|-------------|-------------|------------|
 | **[Mini Database](https://github.com/AarambhDevHub/rust-project-showcase)** | Graph database with SQL joins | 138K ops/sec | Graph DB, LRU Cache, TCP |
-| **[Ignitia Framework](https://github.com/AarambhDevHub/rust-project-showcase)** | Blazing fast web framework | Production-ready | Hyper, Tokio, Middleware |
+| **[Ignitia Framework](https://github.com/AarambhDevHub/ignitia)** | Blazing fast web framework | Production-ready | Hyper, Tokio, Middleware |
 | **[Mini Kafka](https://github.com/AarambhDevHub/rust-project-showcase)** | Distributed message queue | 347ns latency | Pub/Sub, Persistence, TCP |
-| **[Mini Redis](https://github.com/AarambhDevHub/rust-project-showcase)** | In-memory key-value store | 50K ops/sec | RESP Protocol, CLI |
+| **[Mini Redis](https://github.com/AarambhDevHub/mini-redis)** | In-memory key-value store | 50K ops/sec | RESP Protocol, CLI |
 
 ### **🛠️ System Tools & Infrastructure**
 | Project | Description | Features |
