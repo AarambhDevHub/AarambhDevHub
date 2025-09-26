@@ -132,7 +132,6 @@ Beyond coding, I create **comprehensive educational content** through:
 
 ## 🎯 **Current Focus**
 
-- 🔥 **Zig Development**: Building high-performance web frameworks and system tools
 - 🚀 **Performance Optimization**: Advanced benchmarking and SIMD implementations  
 - 📖 **Educational Content**: Creating comprehensive programming courses and tutorials
 - 🌐 **Distributed Systems**: Building scalable, fault-tolerant network applications
