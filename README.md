@@ -54,7 +54,7 @@ Beyond coding, I create **comprehensive educational content** through:
 | Project | Description | Performance | Tech Stack |
 |---------|-------------|-------------|------------|
 | **[Ignitia Framework](https://github.com/AarambhDevHub/ignitia)** | Blazing fast web framework | 155K+ req/sec | Hyper, Tokio, Radix Tree |
-| **[Blaze](https://github.com/AarambhDevHub/blaze)** | High-performance system tool | Optimized performance | Rust, Systems Programming |
+| **[Blaze](https://github.com/AarambhDevHub/blaze)** | High-performance system tool | Optimized performance | Go, Systems Programming |
 | **[Multi-Cam Face Tracker](https://github.com/AarambhDevHub/multi-cam-face-tracker)** | Real-time face tracking system | Multi-camera support | Python, OpenCV, PyQt5, InsightFace |
 
 ### **🛠️ System Tools & Infrastructure**
