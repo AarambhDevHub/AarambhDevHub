@@ -22,7 +22,7 @@
 ## 🔥 **Recent Highlights**
 
 🎯 **Latest Releases**: 
-- 🔥 **[Blaze v0.1.3](https://github.com/AarambhDevHub/blaze)** - Go web framework achieving **190K+ req/sec** with caching
+- 🔥 **[Blaze v0.1.4](https://github.com/AarambhDevHub/blaze)** - Go web framework achieving **190K+ req/sec** with caching
 - 🦀 **[Ignitia v0.2.4](https://crates.io/crates/ignitia)** - Rust web framework with **155K+ req/sec** performance
 
 📚 **New Content**: Advanced framework architecture, performance optimization, and systems programming tutorials  
@@ -59,7 +59,7 @@ Beyond coding, I create **comprehensive educational content**:
 
 | Project | Version | Description | Performance | Features |
 |---------|---------|-------------|-------------|----------|
-| **[Blaze](https://github.com/AarambhDevHub/blaze)** | v0.1.3 | Go web framework | **190K+ req/sec** with cache<br>**182K+ req/sec** sustained | HTTP/2, WebSocket, Caching (LRU/LFU/FIFO/Random), Validation, Compression, CSRF, Rate Limiting |
+| **[Blaze](https://github.com/AarambhDevHub/blaze)** | v0.1.4 | Go web framework | **190K+ req/sec** with cache<br>**182K+ req/sec** sustained | HTTP/2, WebSocket, Caching (LRU/LFU/FIFO/Random), Validation, Compression, CSRF, Rate Limiting |
 | **[Ignitia](https://github.com/AarambhDevHub/ignitia)** | v0.2.4 | Rust web framework | **155K+ req/sec** | Radix routing, Middleware, Type-safe, Zero-copy optimization |
 
 
@@ -196,7 +196,7 @@ Your support helps maintain and improve Blaze, Ignitia, and all open-source proj
 
 **📦 Featured Releases:**
 
- [Blaze v0.1.3](https://github.com/AarambhDevHub/blaze/releases/tag/v0.1.3) - Go Framework (190K+ req/sec)
+ [Blaze v0.1.4](https://github.com/AarambhDevHub/blaze/releases/tag/v0.1.4) - Go Framework (190K+ req/sec)
 
  [Ignitia v0.2.4](https://crates.io/crates/ignitia) - Rust Framework (155K+ req/sec)
 
